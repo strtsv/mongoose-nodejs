@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.5.0",
-    "mongoose": "^4.12.0",
-    "nodemon": "^1.18.3"
+    "bluebird": "^3.5.4",
+    "mongoose": "^5.5.0",
+    "nodemon": "^1.18.10"
   }
 }
