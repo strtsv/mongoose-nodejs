@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "bluebird": "^3.5.4",
-    "mongoose": "^5.5.0",
+    "mongoose": "^5.9.10",
     "nodemon": "^1.18.10"
   }
 }
